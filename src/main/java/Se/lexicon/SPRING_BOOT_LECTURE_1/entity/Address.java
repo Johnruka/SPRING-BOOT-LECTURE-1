@@ -1,4 +1,4 @@
-package Se.lexicon.entity;
+package Se.lexicon.SPRING_BOOT_LECTURE_1.entity;
 
 
 import jakarta.persistence.*;
